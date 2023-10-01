@@ -1,2 +1,2 @@
 # CodeClauseInternship_timer
-Timer and stopwatch a web development project using HTML,CSS &amp; JavaScript
+Timer and stopwatch a web development project using just HTML.
